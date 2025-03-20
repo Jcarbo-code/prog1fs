@@ -9,15 +9,15 @@ class Auto {
         this.anio=anio;
     }
 
-    getMarca (String){
+    getMarca (){
         return this.marca;
     }
 
-    getModelo(String){
+    getModelo(){
         return this.modelo;
     }
 
-    getAnio(number){
+    getAnio(){
         return this.anio;
     }
 
